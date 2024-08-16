@@ -5,6 +5,9 @@
 I use <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="50px"> btw
 
 JQuery - 2+ years
+
 Rust: bool = true
+
 React - Native
+
 gf - sqrt(-100)
