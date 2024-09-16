@@ -11,7 +11,8 @@ JQuery? - 2+ years
 Rust: bool = true
 
 React? - Native
-
+<!--
 gf? - sqrt(-100)
 
 sex? - sure,why not
+-->
